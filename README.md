@@ -2,7 +2,7 @@
 
 <img src="./imgs/icon.png" alt="drawing" width="200"/>
 
-> *It's impossible to have trustworthy AI without good data for AI models to learn.*
+> _It's impossible to have trustworthy AI without good data for AI models to learn._
 
 The vision of SEEDGuard is to provide a platform for researchers and practitioners to share and discuss data-centric methods for improving the quality of software engineering datasets.
 
@@ -35,6 +35,8 @@ We are actively expanding the list of SE data quality issues. If you have any su
 We're excited that you're interested in contributing to SEEDGuard.AI! This document outlines the process for contributing to our project. Your contributions can make a real difference, and we appreciate every effort you make to help improve this project.
 
 We will be always happy to help for any problem or difficulties you may face during the contribution process.
+
+Follow the guidelines provided in [CONTRIBUTING](https://github.com/SEEDGuard/seedguard.github.io/CONTRIBUTING.md) file for further information.
 
 ## Getting Started
 
