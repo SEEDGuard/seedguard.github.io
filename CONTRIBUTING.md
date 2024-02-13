@@ -26,31 +26,27 @@ _Pull requests, bug reports, and all other forms of contribution are welcomed an
 4. If a replication package is available, try running it locally to understand the core implementation. If not, proceed to implement it yourself.
 5. Implement the selected method. Make sure to thoroughly test your implementation using a testing framework like [unittest](https://docs.python.org/3/library/unittest.html).
 6. Organize your code by keeping the training and experimentation parts separate from the core implementation.
-7. Raise a Pull Request (PR) with your implementation on the component's repository. Refer to the [Pull Request](https://github.com/SEEDGuard/seedguard.github.io/blob/main/CONTRIBUTING.md#repeat-submitting-pull-requests).
+7. Raise a Pull Request (PR) with your implementation on the component's repository. Refer to the [Pull Request](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/CONTRIBUTING.md#repeat-submitting-pull-requests).
 8. Update the Data Format table for the implemented method in the [README](https://github.com/SEEDGuard/SEEDUtils/blob/main/README.md) of the SEEDUtils Repository.
 9. Once everything is done, you've successfully contributed to SEEDGuard. Great job!
 
 ## :book: Code of Conduct
 
-Please review our [Code of Conduct](https://github.com/SEEDGuard/seedguard.github.io/blob/main/CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project.
+Please review our [Code of Conduct](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project.
 
 ## :bulb: Asking Questions
 
-See our [Support Guide](https://github.com/SEEDGuard/seedguard.github.io/blob/main/SUPPORT.md). In short, GitHub issues are not always the first place to debug your project, but should be reserved for filing bugs and feature requests.
+See our [Support Guide](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/SUPPORT.md). In short, GitHub issues are not always the first place to debug your project, but should be reserved for filing bugs and feature requests.
 
 ## :inbox_tray: Opening an Issue
 
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
 
-### :lock: Reporting Security Issues
-
-Review our [Security Policy](https://github.com/SEEDGuard/seedguard.github.io/blob/main/SECURITY.md). **Do not** file a public issue for security vulnerabilities.
-
 ### :beetle: Bug Reports and Other Issues
 
 A great way to contribute to the project is to send a detailed issue when you encounter a problem. We always appreciate a well-written, thorough bug report. :v:
 
-- **Review the documentation and [Support Guide](https://github.com/SEEDGuard/seedguard.github.io/blob/main/SUPPORT.md)** before opening a new issue.
+- **Review the documentation and [Support Guide](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/SUPPORT.md)** before opening a new issue.
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply note "I have this problem too", which helps prioritize the most common problems and requests.
 
