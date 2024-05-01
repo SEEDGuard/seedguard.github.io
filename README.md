@@ -36,7 +36,7 @@ We're excited that you're interested in contributing to SEEDGuard.AI! This docum
 
 We will be always happy to help for any problem or difficulties you may face during the contribution process.
 
-Follow the guidelines provided in [CONTRIBUTING](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/CONTRIBUTING.md) file for further information.
+Follow the guidelines provided in [CONTRIBUTING](https://github.com/SEEDGuard/seedguard.github.io/blob/main/CONTRIBUTING.md) file for further information.
 
 ## Getting Started
 
