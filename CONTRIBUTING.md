@@ -22,13 +22,14 @@ _Pull requests, bug reports, and all other forms of contribution are welcomed an
 
 1. SEEDGuard has various [components](https://github.com/orgs/SEEDGuard/repositories), each with its own methods, tasks, and datasets. You can find details about these in the README files of each component on GitHub.
 2. Check the README of each component for a list of methods and dataset provided in the papers.
-3. Choose a method that interests you, ensuring that the **"If Integrated"** field is **unchecked**.
-4. If a replication package is available, try running it locally to understand the core implementation. If not, proceed to implement it yourself.
-5. Implement the selected method. Make sure to thoroughly test your implementation using a testing framework like [unittest](https://docs.python.org/3/library/unittest.html).
-6. Organize your code by keeping the training and experimentation parts separate from the core implementation.
-7. Raise a Pull Request (PR) with your implementation on the component's repository. Refer to the [Pull Request](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/CONTRIBUTING.md#repeat-submitting-pull-requests).
-8. Update the Data Format table for the implemented method in the [README](https://github.com/SEEDGuard/SEEDUtils/blob/main/README.md) of the SEEDUtils Repository.
-9. Once everything is done, you've successfully contributed to SEEDGuard. Great job!
+3. Choose a method that interests you from the issues, ensuring that the **"If Integrated"** field is **unchecked**.
+4. Follow the tasklist mentioned on the issues, make sure you check all the task after you complete.
+5. Try running the replication package (code) locally to understand the core implementation.
+6. Integrate this package into our component by following the required folder structure and file requirement (More details are provided in CONTRIBUTING.md file of each component).
+7. Organize your code by keeping the training and experimentation parts separate from the core implementation.
+8. Raise a Pull Request (PR) with your implementation on the component's repository. Refer to the [Pull Request](https://github.com/SEEDGuard/seedguard.github.io/blob/contribution_branch/CONTRIBUTING.md#repeat-submitting-pull-requests).
+9. Update the Data Format table for the implemented method in the [README](https://github.com/SEEDGuard/SEEDUtils/blob/main/README.md) of the SEEDUtils Repository.
+10. Once everything is done, you've successfully contributed to SEEDGuard. Great job!
 
 ## :book: Code of Conduct
 
